@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KotlinArtBook</string>
+    <string name="artist">Artist</string>
+    <string name="year">Year</string>
+    <string name="art">Art</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+    <string name="save">save</string>
+</resources>
